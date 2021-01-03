@@ -1,0 +1,75 @@
+
+#EXTM3U
+#EXTINF:-1,America tv Arg
+https://dai.google.com/linear/pods/v1/p/OY2i_lL4SMyXE5Zaj4ULEg/cf91b5cd-37c9-4e64-a45c-818ab0314390:CHS/23670/slate/0/39306c6188277619e451f445821f508d/0.ts
+#EXTINF:-1,Bolivia tv
+http://boliviatv1.srfms.com:5735/live/livestream/media_w74474335_103675.ts
+#EXTINF:-1,Comedia Central
+http://cdn89.sportsbay.site:2052/live-2/052/chunks.m3u8?nimblesessionid=18347401.ts
+#EXTINF:-1,ECUAVISA
+http://cdn89.sportsbay.site:2052/live-2/071/l_118108_48942003_24233.ts?nimblesessionid=18351995&wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMjEgOTozNToyMyBQTSZoYXNoX3ZhbHVlPWxvV0U0bFU5UCtBenhucVZqNnVqY3c9PSZ2YWxpZG1pbnV0ZXM9MTIwJnN0cm1fbGVuPTEw
+#EXTINF:-1,HBO MUNDI
+http://dominiopersonal.xyz:25464/eresplayer/vlMPPO6ICZ/133.ts
+#EXTINF:-1,HBO
+http://dominiopersonal.xyz:25464/eresplayer/vlMPPO6ICZ/64.ts
+#EXTINF:-1,Europa Eu
+http://globaltvplus.club:25461/OHfZFQJr5b/pwTOvoTj0j/317.ts
+#EXTINF:-1,CineCanal
+http://globaltvplus.club:25461/OHfZFQJr5b/pwTOvoTj0j/105.ts
+#EXTINF:-1,Mi Cinema
+http://globaltvplus.club:25461/OHfZFQJr5b/pwTOvoTj0j/110.ts
+#EXTINF:-1,TNT
+http://globaltvplus.club:25461/OHfZFQJr5b/pwTOvoTj0j/85.ts
+#EXTINF:-1,Food Network Latino
+http://globaltvplus.club:25461/OHfZFQJr5b/pwTOvoTj0j/51.ts
+#EXTINF:-1,CDF
+http://globaltvplus.club:25461/OHfZFQJr5b/pwTOvoTj0j/322.ts
+#EXTINF:-1,ESPN2
+http://globaltvplus.club:25461/OHfZFQJr5b/pwTOvoTj0j/131.ts
+#EXTINF:-1,ESPN22
+http://globaltvplus.club:25461/OHfZFQJr5b/pwTOvoTj0j/176.ts
+#EXTINF:-1,Winsport
+http://globaltvplus.club:25461/OHfZFQJr5b/pwTOvoTj0j/149.ts
+#EXTINF:-1,Fox Premium
+http://globaltvplus.club:25461/OHfZFQJr5b/pwTOvoTj0j/135.ts
+#EXTINF:-1,Foxsports2 M
+http://globaltvplus.club:25461/OHfZFQJr5b/pwTOvoTj0j/137.ts
+#EXTINF:-1,History HD
+http://moontools.me:8080/live/RoselynT/7e9M57akMB/1132379.ts
+#EXTINF:-1,Fox Action
+http://38.18.238.42:2095/662foxAction/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/l_1028626_4341158_816.ts?nimblesessionid=1306081131.ts
+#EXTINF:-1,HBO FAMILY
+http://23.237.29.98:2095/652HBOFamily/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/l_51025_4430814_1021.ts?nimblesessionid=29862715.ts
+#EXTINF:-1,HBO+
+http://38.18.238.42:2095/654HBOPlus/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/l_1028614_4512095_1088.ts?nimblesessionid=1306090349.ts
+#EXTINF:-1,Space
+http://38.18.238.42:2095/221SpaceMexico/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/l_1028638_4601651_928.ts?nimblesessionid=1306096304.ts
+#EXTINF:-1,Directv 1
+http://moontools.me:8080/live/RoselynT/7e9M57akMB/1131115.ts
+#EXTINF:-1,TNT SPORTS
+http://moontools.me:8080/live/RoselynT/7e9M57akMB/1119917.ts
+#EXTINF:-1,Fox Classic
+http://23.237.29.98:2095/669foxClassics/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/l_51028_5680029_869.ts?nimblesessionid=29900958.ts
+#EXTINF:-1,Universo 
+http://38.18.238.42:2095/transco10/9509UNVSO/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/l_1026604_86027141_18879.ts?nimblesessionid=1306170750.ts
+#EXTINF:-1,La Liga
+http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/36.ts
+#EXTINF:-1,Cine Central
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/media_w242039392_5517.ts
+#EXTINF:-1,Wow tv
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/media_w84588335_2026.ts
+#EXTINF:-1,Cinema Universo
+http://tv.iptv5latino.cl:8000/premium2/mauri1234554321/57654.ts
+#EXTINF:-1,Beinsportñ
+http://38.18.238.42:2095/9592BEINE/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/l_1014202_134967183_20961.ts?nimblesessionid=1306233983.ts
+#EXTINF:-1,Beinsports2
+http://38.18.238.42:2095/9592BEINE/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/l_1014202_135084383_20993.ts?nimblesessionid=1306238653.ts
+#EXTINF:-1,Claro Sports
+http://38.18.238.42:2095/504clarosport/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/l_1028668_7397378_1154.ts?nimblesessionid=1306243849.ts
+#EXTINF:-1,Espn Deportes
+http://38.18.238.42:2095/encoder82/evento16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/l_1027378_35433581_11808.ts?nimblesessionid=1306251069.ts
+#EXTINF:-1,Tigo Sport
+http://tv.iptv5latino.cl:8000/live/jorge18/1234/42174.ts
+#EXTINF:-1,Animal Planet
+http://23.237.29.98:2095/408animalplanet/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/l_51118_7984130_2171.ts?nimblesessionid=29971734.ts
+
